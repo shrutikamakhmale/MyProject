@@ -33,4 +33,4 @@ Features
 16)listed_in(type) : type of the restaurant
 17)listed_in(city) : locality of the restaurant position
 
-DataSet Link: https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
+DataSet Link: https://drive.google.com/file/d/1OG9udS7XPzsLSsY58jOghbUntK6foKBy/view?usp=sharing
