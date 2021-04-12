@@ -1,4 +1,4 @@
-# Zomato restaurant recommendation SYSTEM![image](https://user-images.githubusercontent.com/67328106/114341133-add81d80-9b76-11eb-8ead-766419dbfad1.png)
+# Zomato restaurant recommendation system![image](https://user-images.githubusercontent.com/67328106/114341133-add81d80-9b76-11eb-8ead-766419dbfad1.png)
 
 The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the aggregate rating of 
 each restaurant, establishment of different types of restaurant at different places, Bengaluru being one such city has 
